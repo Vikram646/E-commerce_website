@@ -1,0 +1,17 @@
+.product-title{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+    border: 1px black solid;
+    background-color: aqua;
+}
+.product-category{
+    text-align: center;
+    font-size: 35px;
+}
+.product-description,.product-price{
+    padding: 10px;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
